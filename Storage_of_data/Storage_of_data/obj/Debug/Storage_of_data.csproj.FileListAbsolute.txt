@@ -1,0 +1,6 @@
+c:\users\alexandr\documents\visual studio 2013\Projects\Storage_of_data\Storage_of_data\bin\Debug\Storage_of_data.exe.config
+c:\users\alexandr\documents\visual studio 2013\Projects\Storage_of_data\Storage_of_data\bin\Debug\Storage_of_data.exe
+c:\users\alexandr\documents\visual studio 2013\Projects\Storage_of_data\Storage_of_data\bin\Debug\Storage_of_data.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\Storage_of_data\Storage_of_data\obj\Debug\Storage_of_data.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\Storage_of_data\Storage_of_data\obj\Debug\Storage_of_data.exe
+c:\users\alexandr\documents\visual studio 2013\Projects\Storage_of_data\Storage_of_data\obj\Debug\Storage_of_data.pdb
